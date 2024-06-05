@@ -1,6 +1,3 @@
-# Jenkins JDK 17, JDK 11 is being deprecated
-# FROM jenkins/jenkins:latest-jdk17
-# FROM jenkins/jenkins:jdk17
 FROM jenkins/jenkins:latest-jdk17
 
 USER root
